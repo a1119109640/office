@@ -1,0 +1,16 @@
+<Configuration>
+
+<Add SourcePath=".\" OfficeClientEdition="32" Channel="Monthly">
+	<Product ID="O365ProPlusRetail" > 
+		<Language ID="zh-cn" />
+		<ExcludeApp ID="OneNote" />
+		<ExcludeApp ID="Outlook" />
+		<ExcludeApp ID="Groove" />
+		<ExcludeApp ID="Lync" />
+    </Product> 
+	<Product ID="VisioProRetail">
+		<Language ID="zh-cn" />
+	</Product>
+</Add>
+
+</Configuration>

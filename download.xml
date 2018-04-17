@@ -1,0 +1,12 @@
+<Configuration>
+
+<Add SourcePath=".\" OfficeClientEdition="32" Channel="Monthly">
+	<Product ID="O365ProPlusRetail" > 
+		<Language ID="zh-cn" />      
+    </Product> 
+	<Product ID="VisioProRetail">
+		<Language ID="zh-cn" />
+	</Product>
+</Add>
+
+</Configuration>
